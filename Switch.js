@@ -24,4 +24,3 @@ switch (new Date().getDay()) {
         console.log("Not a week day");
         break;
 }
-
